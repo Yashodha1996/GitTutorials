@@ -1,1 +1,16 @@
 First Git file.
+
+Create a directory RapidApplicationDevelopment
+Create another directory call Module
+Goto the directory  Module
+create a file index.html
+Add this file to your github account
+Modify the index.html as a welcome page of your module
+if you have use any .css or .js files for the design
+create a directory resources inside module
+inside the resources create two directories css,js
+move your .css and .js files inside those directory
+push all of your changes to your remote Github account
+
+
+
